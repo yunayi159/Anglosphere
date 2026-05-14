@@ -1,0 +1,77 @@
+---
+
+- taxnomy: 学术备考
+  icon: fas fa-book-open
+  links:
+    - name: 零起点
+      url: https://example.com/zero-start
+      icon: fas fa-star
+      description: 英语零基础入门资源
+    - name: 分级阅读
+      url: https://example.com/graded-reading
+      icon: fas fa-level-up-alt
+      description: 分级读物与阅读训练
+    - name: 助读工具
+      url: https://example.com/reading-tools
+      icon: fas fa-tools
+      description: 词典、翻译、标注工具
+    - name: 听力材料
+      url: https://example.com/listening
+      icon: fas fa-headphones
+      description: 听力资源与材料
+    - name: 视频磨耳
+      url: https://example.com/video-listening
+      icon: fas fa-video
+      description: 英语视频听力素材
+    - name: 听力测试
+      url: https://example.com/listening-test
+      icon: fas fa-tasks
+      description: 听力模拟测试
+    - name: 记词方法
+      url: https://example.com/vocab-methods
+      icon: fas fa-brain
+      description: 单词记忆技巧
+    - name: 记词工具
+      url: https://example.com/vocab-tools
+      icon: fas fa-flashcard
+      description: 背单词App与网站
+    - name: 口语教程
+      url: https://example.com/speaking
+      icon: fas fa-microphone
+      description: 口语练习教程
+
+- taxnomy: 留学考试
+  icon: fas fa-globe
+  links:
+    - name: IELTS（雅思）
+      url: https://example.com/ielts
+      icon: fab fa-ioxhost
+      description: 雅思全科合集：最新真题、全套教材及名师课件
+    - name: TOEFL（托福）
+      url: https://example.com/toefl
+      icon: fas fa-language
+      description: 托福备考资料：TPO真题精解、词汇及写作模板
+    - name: GRE
+      url: https://example.com/gre
+      icon: fas fa-chart-line
+      description: GRE备考精选：词汇红宝书、长难句及写作辅导
+    - name: GMAT
+      url: https://example.com/gmat
+      icon: fas fa-chart-bar
+      description: GMAT全科资料：逻辑推理、数学精讲及核心阅读
+    - name: 考研英语
+      url: https://example.com/postgraduate
+      icon: fas fa-university
+      description: 2027考研相关视频及历年真题（英语、数学、政治）
+    - name: 四六级
+      url: https://example.com/cet
+      icon: fas fa-file-alt
+      description: 四六级英语资料大全：听力、翻译、历年真题
+    - name: 英专八级（TEM-8）
+      url: https://example.com/tem8
+      icon: fas fa-star-of-life
+      description: 英专考纲：权威考纲指南，助力突破阅读
+    - name: PTE
+      url: https://example.com/pte
+      icon: fas fa-chart-simple
+      description: 机考类：高频题库、评分解析及智能模考
